@@ -1,6 +1,3 @@
-##Live Demo
-https://doldol2002.github.io/tictactoe-js/
-
 # Tic Tac Toe (Vanilla JavaScript)
 
 A browser-based implementation of the classic Tic Tac Toe game built using HTML, CSS, and JavaScript.
@@ -42,9 +39,7 @@ The architecture separates:
 * Add animation transitions
 
 ## Live Demo
-
-(Enable GitHub Pages and paste link here)
+https://doldol2002.github.io/tictactoe-js/
 
 ## Author
-
-Jeremiah
+Jeremiah Cho
