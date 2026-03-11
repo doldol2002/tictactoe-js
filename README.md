@@ -41,5 +41,10 @@ The architecture separates:
 ## Live Demo
 https://doldol2002.github.io/tictactoe-js/
 
+## Preview
+<img width="957" height="607" alt="image" src="https://github.com/user-attachments/assets/dc4a4d8b-6064-40b7-b189-111e4d862890" />
+
+
+
 ## Author
 Jeremiah Cho
